@@ -1,0 +1,14 @@
+@media (prefers-reduced-motion: no-preference) {
+    * {
+      scroll-behavior: smooth;
+    }
+  }
+  
+* {
+    family-font: Helvetica;
+  }
+  
+  header {
+    font-weight: bold;
+    font-size: 1.7em;
+  }
