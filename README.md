@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reyteo8
-- 👀 I’m interested in coding games as a hobbie so fk off
-- 🌱 I’m currently learning html (lame)
-- 💞️ I’m looking to collaborate on nobody
+- 👀 I’m interested in coding as a hobbie so fk off
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me your moms bed
 
 <!---
