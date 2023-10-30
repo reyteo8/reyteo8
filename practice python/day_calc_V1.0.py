@@ -12,15 +12,15 @@ if leap_year.upper() == 'yes':
         number = day
     if month == 2:
         number = day + 31
-    if month == 3:
-        number = day + 31 + 29
+    if month >= 3:
+        number = day + (month - 2) * x + 28
 if leap_year.upper() == 'no':
     if month == 1:
         number = day
     if month == 2:
         number = day + 31
     if month >= 3:
-        number = day + (month - 1) * x
+        number = day + (month - 2) * x + 28
 else:
     print('error')
 # Finis
