@@ -21,8 +21,6 @@ elif leap_year.upper() == 'NO':
         number = day + 31
     elif month >= 3:
         number = day + (month - 2) * x + 28
-else:
-    print('Please enter a correct date')
 
 # Finis
 print('Days passed:', number, '/ 365')
