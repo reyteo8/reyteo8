@@ -1,5 +1,5 @@
 x = 0
-if x != 100
+if x != 100:
     x+=1
     try:
         y = int(x / 3)
