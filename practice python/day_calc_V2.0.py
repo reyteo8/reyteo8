@@ -1,1 +1,1 @@
-day  
+day  = "Set day: "
